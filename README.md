@@ -6,6 +6,8 @@ The Data includes the stock data from 5 companies as mentioned before. The date 
 
 All data files are stored in the Data folder. The ML models are stored in the root folder. The seed files such as detrendPrice.py, WhiteRealityCheck.py that from lectures are also stored in the root folder. Besides, the root folder also contains our presentation slides.
 
+Moreover, the White Reality Check generate the result file of dfP_Simple.csv stored in the Results folder.
+
 
 
 In the project, we use the stock data from Apple, Amazon, Google, META, and Netflix to predict the Apple stocks.
