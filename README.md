@@ -1,5 +1,15 @@
 # ten52-Proj
 
+Team Members:
+Jiawei Ma
+Long Ye
+
+
+
+This project is to predict the APPLE Inc. stock Open price based on the data from 2022-02-24 to 2023-02-23.
+
+
+
 There are two types of files are included in the project: Data and ML models.
 
 The Data includes the stock data from 5 companies as mentioned before. The date is from 2022-02-24 to 2023-02-23. We used all data except the last month's data as the training data and the last month's data (in Feb,2023) as the test data.
