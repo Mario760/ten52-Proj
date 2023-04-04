@@ -44,10 +44,11 @@ In the Linear Regression with PCA model, we also used the Amazon, Google, META, 
 <br><br>
 
 <b>To run each model:</b>
-    1. download from GitHub Repo
-    2. extract the zip file (if cloned, skip this step)
-    3. open each ipynb file by using jupyter notebook
-    4. directly run the code.
-
+<ol>
+    <li>download from GitHub Repo</li>
+    <li>extract the zip file (if cloned, skip this step)</li>
+    <li>open each ipynb file by using jupyter notebook</li>
+    <li>directly run the code.</li>
+</ol>
 
 <b>Thanks to Professors Sabatino Costanzo-Alvarez and Rosario Lorenza Trigo-Ferre for their teaching and guidance this semester</b>
