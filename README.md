@@ -4,6 +4,8 @@
 <ul>
 <li>Jiawei Ma</li>
 <li>Long Ye</li>
+<li>Jingting Chen</li>
+<li>Zhaoxi Liu</li>
 </ul>
 
 <br>
